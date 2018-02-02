@@ -1,5 +1,5 @@
-3.
-±í´ïÊ½            ÇóÖµÎª
+ï»¿3.
+è¡¨è¾¾å¼            æ±‚å€¼ä¸º
 Ture and Ture       Ture
 Ture and False      False
 False and Ture      False
