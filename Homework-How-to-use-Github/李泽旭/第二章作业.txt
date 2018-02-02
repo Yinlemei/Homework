@@ -1,0 +1,22 @@
+3.
+表达式            求值为
+Ture and Ture       Ture
+Ture and False      False
+False and Ture      False
+False and False     Fals
+Ture or Ture        Ture
+Ture or False       Ture
+False or Ture       Ture
+False or False      False
+Not Ture            False
+Not False           Ture
+4.
+   False
+   False
+   Ture
+   False
+   False
+   Ture
+
+
+
