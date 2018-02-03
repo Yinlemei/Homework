@@ -1,0 +1,5 @@
+6、  20
+
+7、  spamspamspam    spamspamspam
+
+10、 整型不能与字符串相加     修复：将99改为 str(99)
