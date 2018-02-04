@@ -1,0 +1,16 @@
+第三题
+	（1）and:
+		True and True        True
+		True and False	     False
+		False and True       False
+		False and False      False
+	(2) or:
+		True or True         True
+		True or False        True
+		False or True        True
+		False or False       False
+	(3) not:
+		not True             False
+		not False            True
+第四题
+	（1）False (2)False (3)True (4)False (5)False (6)True

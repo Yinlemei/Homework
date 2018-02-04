@@ -1,0 +1,7 @@
+第六题
+	21
+第七题
+	（1）spamspamspam
+	 (2)spamspamspam
+第十题
+	因为99是一个数而不是一个字符串不能用+直接连接需要变为'I have eaten'+str(99)+'burritos.'
