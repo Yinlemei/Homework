@@ -1,0 +1,3 @@
+6:21
+7:'spamspamspam' 'spamspamspam'
+8:整型数值不能和字符串相加 'I have eaten'+str(99)+'burritos.'
