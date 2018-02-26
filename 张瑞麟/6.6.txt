@@ -1,0 +1,4 @@
+6:'e' 'Hello' 'Hello' 'lo world!'
+7:'HELLO' True 'hello'
+8:['Remember,','remember,','the','fifth','of','November.']
+  'There-can-be-only-one.'
