@@ -1,0 +1,11 @@
+3£¬²¼¶û²Ù×÷·ûÓÐ and or not
+   True and True  ->  True       True or True -> True          not Ture ->False
+   True and False ->  False      True or False -> True         not False ->Ture
+   False and True ->  False      False or False -> False
+   False and False ->  False     False or True -> True
+4,False
+  False
+  True
+  False
+  False
+  True
