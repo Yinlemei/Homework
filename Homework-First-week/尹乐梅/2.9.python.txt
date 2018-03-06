@@ -1,0 +1,6 @@
+If spam==1:
+    print(`Hello!`)
+    If spam=2:
+       print(`Howdy`)
+    else:
+       print(`Greetings!`)
