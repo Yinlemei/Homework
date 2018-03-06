@@ -1,0 +1,18 @@
+def printTable(tabledata):
+    colWidth=[0]*len(tableData)
+    for i in range(len(colWidth)):
+        global num
+        num=len(tabledata[i])
+        col=[]
+        for j in range(num):
+            col.append(len(tabledata[i][j]))
+        colWidth[i]=max(col[0:int(len(col))])
+     intWidth=max(colWidth[0:len(colwidth)])
+     for x in range(num):
+         for y in range(len(tabledata)):
+             print(str(tabledata[y][x]).rjust(intWidth,` `),end=` `)
+         print(`\n`)
+tableData=[[`apples`,`oranges`,`cherries`,`banana`],
+           [`Alice`,`Bob`,Carol`,`David`],
+           [`dogs`,`cats`,`moose`,`goose`]]
+printTable(tableData)
